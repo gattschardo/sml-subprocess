@@ -1,4 +1,4 @@
-# sml-subprocess [![CI](https://github.com/gattschardo/sml-subprocess/workflows/flake-checks/badge.svg)
+# sml-subprocess [![CI](https://github.com/gattschardo/sml-subprocess/workflows/flake-checks/badge.svg)](https://github.com/gattschardo/sml-subprocess/actions)
 
 Standard ML convenience wrapper around posix subprocesses.
 
