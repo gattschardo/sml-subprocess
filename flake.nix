@@ -1,5 +1,5 @@
 {
-  description = "Convenience wrapper around posix subprocesses, modeled after the python module";
+  description = "Standard ML convenience wrapper around posix subprocesses, modeled after the python module";
 
   inputs.nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
   inputs.nix-github-actions.url = "github:nix-community/nix-github-actions";

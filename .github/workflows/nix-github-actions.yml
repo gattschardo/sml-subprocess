@@ -1,4 +1,4 @@
-name: Nix Flake actions
+name: flake-checks
 
 on:
   pull_request:
