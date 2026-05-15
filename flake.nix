@@ -67,6 +67,6 @@
 
       formatter.${system} = pkgs.treefmt;
 
-      githubActions.${system} = nix-github-actions.lib.mkGithubMatrix { inherit (self) checks; };
+      githubActions = nix-github-actions.lib.mkGithubMatrix { inherit (self) checks; };
     };
 }
