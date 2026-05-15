@@ -18,7 +18,7 @@ This library is set up to work well with the SML package manager
 the root of your project directory, execute the command:
 
 ```
-$ smlpkg add github.com/diku-dk/sml-json
+$ smlpkg add github.com/gattschardo/sml-subprocess
 ```
 
 This command will add a _requirement_ (a line) to the `sml.pkg` file in your
@@ -26,7 +26,7 @@ project directory (and create the file, if there is no file `sml.pkg`
 already).
 
 To download the library into the directory
-`lib/github.com/diku-dk/sml-json`, execute the command:
+`lib/github.com/gattschardo/sml-subprocess`, execute the command:
 
 ```
 $ smlpkg sync
