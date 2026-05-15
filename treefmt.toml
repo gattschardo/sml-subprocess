@@ -1,0 +1,12 @@
+version = 1
+
+[formatter.nixfmt]
+command = "nixfmt"
+includes = ["*.nix"]
+#pass_filenames = true
+
+[formatter.smlfmt]
+command = "smlfmt"
+options = ["--force"]
+includes = ["*.sml", "*.sig"]
+#pass_filenames = true

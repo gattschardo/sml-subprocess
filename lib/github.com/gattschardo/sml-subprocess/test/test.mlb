@@ -1,0 +1,6 @@
+local
+  $(SML_LIB)/basis/basis.mlb
+  ../subprocess.mlb
+in
+  test.sml
+end
